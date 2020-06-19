@@ -1,8 +1,8 @@
 import { tambah, kurang, kali, bagi } from "./script2.js";
 
-let ini = 10;
+let ini = 20;
 
-console.log(`${ini} + ${ini} = ${tambah(10, 10)}`);
-console.log(`${ini} - ${ini} = ${kurang(10, 10)}`);
-console.log(`${ini} * ${ini} = ${kali(10, 10)}`);
-console.log(`${ini} / ${ini} = ${bagi(10, 10)}`);
+console.log(`${ini} + ${ini} = ${tambah(20, 20)}`);
+console.log(`${ini} - ${ini} = ${kurang(20, 20)}`);
+console.log(`${ini} * ${ini} = ${kali(20, 20)}`);
+console.log(`${ini} / ${ini} = ${bagi(20, 20)}`);
